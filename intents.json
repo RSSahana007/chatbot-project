@@ -1,0 +1,251 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-) what are you worried about?",
+        "Hello, thanks for visiting, what do you worry about",
+        "Hi there, what can I do for you? If you're having any problem, please tell me",
+        "Hi there, how can I help?",
+        "You can talk through what you're worried about"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank 's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "who are you",
+      "patterns": [
+        "Are you a human?",
+        "Whom am I talking to?",
+        "Who are you?",
+        "Whom am I consulting with?",
+        "What are you?"
+      ],
+      "responses": [
+        "Technically, I'm an AI, so you're the only human who will read our conversations. But  hope you'll find me to be a good friend in times of need"
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "How do you help?",
+        "How can you help?",
+        "In what way can you help me?",
+        "Help",
+        "How can I get help from you",
+        "Help me"
+      ],
+      "responses": [
+        "Tell me what do you need help with: 1.Anxiety, 2.Motivation, 3.Confidence, 4.Sleep, 5.Depression, 6.Work Stress, 7.Relationships, 8.Exam Stress, 9.Trauma, 10.Health Issues, 11.Loneliness, 12.Loss, 13.Self Esteem, 14.Low Energy"
+      ]
+    },
+    {
+      "tag": "anxiety",
+      "patterns": [
+        "anxiety",
+        "anxious",
+        "I've anxiety"
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "motivation",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "confidence",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "sleep",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "depression",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "work stress",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "relationship",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "exam stress",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+      {
+      "tag": "trauma",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "health issues",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "loneliness",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "loss",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "self esteem",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "low energy",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "",
+      "patterns": [
+        ""
+      ],
+      "responses": [
+        ""
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "feeling",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
